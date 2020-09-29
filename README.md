@@ -1,2 +1,2 @@
 # SpringCloud-Learning
-for springCloude
+for springCloud
