@@ -1,6 +1,6 @@
-使用postman进行post刷线配置请求时，可能会报错，如下
-http://localhost:2001/refresh
+使用postman进行post刷线配置请求时，http://localhost:2001/refresh 该接口可以刷新git配置
 
+可能会报错，如下
 {
     "timestamp": 1602545750559,
     "status": 401,
