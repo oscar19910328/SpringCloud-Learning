@@ -1,0 +1,5 @@
+用jUnit测试时
+较新版的Spring Boot取消了@SpringApplicationConfiguration这个注解，用@SpringBootTest就可以了
+
+@RunWith(SpringRunner.class)
+@SpringBootTest(classes = SwaggerServiceApplication.class)
